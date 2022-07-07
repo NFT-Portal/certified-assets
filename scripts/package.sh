@@ -1,0 +1,1 @@
+icx-asset --pem ~/.config/dfx/identity/action/identity.pem --replica https://ic0.app upload 5pqrm-liaaa-aaaag-aaqaa-cai ./packages
