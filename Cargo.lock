@@ -178,7 +178,7 @@ dependencies = [
 
 [[package]]
 name = "certified-assets"
-version = "0.2.2"
+version = "0.2.3"
 dependencies = [
  "ic-cdk",
  "ic-cdk-macros",
@@ -382,9 +382,9 @@ dependencies = [
 
 [[package]]
 name = "ic-certified-assets"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d67050493eee5fdc92b03da7a1c62f7ffa5614303da0f4ee03015d7f54e0668b"
+checksum = "0970dbf79753ae6e20ce6ea22154b374644d59e55672369ea81f6fdedbc227e8"
 dependencies = [
  "base64",
  "candid",

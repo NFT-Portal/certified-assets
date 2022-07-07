@@ -5,7 +5,10 @@
       "type": "custom",
       "candid": "assets.did",
       "wasm": "target/wasm32-unknown-unknown/release/certified_assets-opt.wasm",
-      "build": "bash build.sh"
+      "build": "bash build.sh",
+      "declarations": {
+        "bindings": ["mo"]
+      }    
     }
   },
   "networks": {
